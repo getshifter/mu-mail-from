@@ -13,5 +13,4 @@ License: GPLv2 or later
 function shifter_mail_from( $email_address ) {
   return 'wordpress@app.getshifter.io';
 }
-add_filter( 'wp_mail_from', 'shifter_mail_from' )
-?>
+add_filter( 'wp_mail_from', 'shifter_mail_from' );
