@@ -9,7 +9,6 @@ Author URI:
 License: GPLv2 or later
 */
 
-<?php
 function shifter_mail_from( $email_address ) {
   return 'wordpress@app.getshifter.io';
 }
