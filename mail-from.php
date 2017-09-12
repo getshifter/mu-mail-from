@@ -3,7 +3,7 @@
 Plugin Name: Shifter Mail From.
 Plugin URI:
 Description:
-Version: 0.1.0
+Version: 0.1.1
 Author: DigitalCube
 Author URI:
 License: GPLv2 or later
