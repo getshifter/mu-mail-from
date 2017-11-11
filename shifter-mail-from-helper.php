@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: Shifter Mail From.
-Plugin URI:
+Plugin Name: Shifter - Mail From Helper.
+Plugin URI: https://github.com/getshifter/shifter-mail-from-helper
 Description:
-Version: 0.1.1
-Author: DigitalCube
-Author URI:
+Version: 0.2.0
+Author: Shifter Team
+Author URI: https://github.com/getshifter
 License: GPLv2 or later
 */
 
