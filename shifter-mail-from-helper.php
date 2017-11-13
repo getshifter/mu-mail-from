@@ -2,8 +2,8 @@
 /*
 Plugin Name: Shifter - Mail From Helper.
 Plugin URI: https://github.com/getshifter/shifter-mail-from-helper
-Description:
-Version: 0.2.0
+Description: Fixes the hostname for mail from.
+Version: 0.2.1
 Author: Shifter Team
 Author URI: https://github.com/getshifter
 License: GPLv2 or later
